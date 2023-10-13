@@ -58,16 +58,28 @@
 
 <br clear="both">
 
+### 
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FreSauce&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
+
+
+ 
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=FreSauce&locale=en&mode=weekly&theme=merko&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FreSauce&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/FreSauce/FreSauce/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/FreSauce/FreSauce/output/snake.svg" />
 
 ###
